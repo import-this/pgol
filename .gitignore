@@ -1,0 +1,14 @@
+*~
+
+# Eclipse
+.project
+.settings
+
+# Object files
+*.o
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
